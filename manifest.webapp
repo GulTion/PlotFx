@@ -1,0 +1,16 @@
+{
+  "name": "PlotFx",
+  "description": "Draw function graph",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/IMG/ico.ico",
+    "48": "/IMG/ico.ico",
+    "60": "/IMG/ico.ico",
+    "128": "/IMG/ico.ico"
+  },
+  "developer": {
+    "name": "GulTion",
+    "url": "http://gultion.epizy.com/PlotFx/"
+  },
+  "fullscreen": "true"
+}
